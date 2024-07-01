@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi I'm Anderson Ndubisi Victor.
 
 ### 👋 I'm a JavaScript Full Stack Developer with love for everything tech.
